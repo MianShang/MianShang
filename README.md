@@ -41,9 +41,9 @@
 
 | 프로젝트 | 설명 | 기술 | 내 기여 |
 |---|---|---|---|
-| [📦 재고콕 (infood)](https://github.com/semicolon213/infood) | 소상공인용 식당 재고 관리 & AI 메뉴 추천 모바일 웹 · 융합SW모델설계 PBL | Next.js, TypeScript, Supabase(PostgreSQL), Vitest | DB 스키마·RLS·RPC, 재료·입고·판매 마감·사용/폐기 서버, FEFO 재고 차감, 유통기한·단위 환산, 대시보드 조회, 테스트 작성, GitHub Actions CI 구축, 아키텍처·코딩 규칙 문서 · [PR 보기](https://github.com/semicolon213/infood/pulls?q=author%3AMianShang) |
+| [📦 재고콕 (infood)](https://github.com/semicolon213/infood) | 소상공인용 식당 재고 관리 & AI 메뉴 추천 모바일 웹 · 융합SW모델설계 PBL (진행 중) | Next.js, TypeScript, Supabase(PostgreSQL), Vitest | DB 스키마·RLS·RPC, 재료·입고·판매 마감·사용/폐기 서버, FEFO 재고 차감, 유통기한·단위 환산, 대시보드 조회, 테스트 작성, GitHub Actions CI 구축, 아키텍처·코딩 규칙 문서 · [PR 보기](https://github.com/semicolon213/infood/pulls?q=author%3AMianShang) |
 | [🔍 PokeFile](https://github.com/semicolon213/pokefile) | PokéAPI 기반 포켓몬 도감 검색 웹사이트 · 고급웹프로그래밍 PBL | React, TypeScript, Vite, TanStack Query, Recharts | 상세 화면(종족값 차트·메가 폼·진화 트리·진화 조건·특성 설명·출현 장소), 단위·통합·E2E 테스트 · [PR 보기](https://github.com/semicolon213/pokefile/pulls?q=author%3AMianShang) |
-| [🎮 QMatch](https://github.com/MianShang/QMatch) | 게임 플레이어용 실시간 매칭·음성 채팅 플랫폼 · 졸업작품 | React, Spring Boot, WebSocket(STOMP), Electron, MySQL | **팀장** · 친구 기능(목록·요청·차단), 1:1 실시간 채팅·안 읽은 메시지, 게임 플레이 상태 실시간 표시, 로스트아크 API 연동, 회원가입 닉네임 중복 확인, 백엔드·프론트 초기 설정 및 배포 |
+| [🎮 QMatch](https://github.com/MianShang/QMatch) | 게임 플레이어용 실시간 매칭·채팅·음성 채팅 데스크톱 앱 · 2025 졸업작품 | React, Spring Boot, WebSocket(STOMP), Electron, MySQL | **팀장** · 친구 기능(목록·요청·차단), 1:1 실시간 채팅·안 읽은 메시지, 게임 플레이 상태 프론트 연동, 로스트아크 API 연동, 회원가입 닉네임 중복 확인, 백엔드·프론트 초기 설정 및 배포 |
 | [📱 Mobile Team Project](https://github.com/Yuhan-404NotFound/MoblieTeamProject) | 캘린더 일정관리 & 작심삼일 플랜 앱 · 2025-1 모바일 조별 프로젝트 | React, PWA | 메인 페이지 구현, 발표 |
 | [🎬 MRS](https://github.com/gaeuns/MRS) | 영화 정보·리뷰/평점·커뮤니티 게시판을 갖춘 영화 리뷰 사이트 · Spring 팀 프로젝트 | Spring Boot, JPA, Thymeleaf, MySQL | 커뮤니티 게시판 전체(엔티티·DTO·Controller·Repository), 게시글 CRUD, 댓글, 추천/비추천 |
 | [📝 Ref 방명록](https://github.com/Seungho1201/Ref_GuestBook) → [통합본](https://github.com/semicolon213/2024_GuestBook_T1) | Reference 동아리 방명록 프로그램 · 2024 졸업작품전 축전 프로젝트 (1·2조 통합) | C++, Win32 API | 그리기 영역 구현, 통합 후 리플레이 스레드·더블 버퍼링·스탬프 오류 수정 |
