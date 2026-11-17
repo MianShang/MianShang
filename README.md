@@ -13,7 +13,7 @@
 ## 🙋 About Me
 
 - 🎓 유한대학교 컴퓨터공학과 재학 중
-- 📐 **융합SW 모델설계** 수업을 들으며 UML 모델링과 소프트웨어 설계를 공부하고, 팀 프로젝트 [재고콕](https://github.com/semicolon213/infood)에서 아키텍처·DB 설계를 맡았습니다
+- 📐 **융합SW 모델설계** 수업을 들으며 UML 모델링과 소프트웨어 설계를 공부하고 있습니다
 - 🌱 지금 배우고 있는 것: `Linux 시스템 프로그래밍, React, 클라우드 컴퓨팅`
 - 🎯 목표: `프론트와 백엔드를 다루는 풀스택 개발자`
 
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### Tools & Environment
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
 
 ### Design
 <img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=diagramsdotnet&logoColor=black">
